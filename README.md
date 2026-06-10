@@ -1,4 +1,4 @@
-# TTT - To-Do List (Prueba Técnica — Junior Developer)
+# To-Do List (Prueba Técnica — Junior Developer)
 
 **Proyecto:** Aplicación Full-Stack de lista de tareas persistente (To-Do)
 **Autor:** <Andres Felipe Rossemberg Hernandez>
